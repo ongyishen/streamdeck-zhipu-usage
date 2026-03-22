@@ -4,6 +4,7 @@
 
 ## Overview
 ![App](https://github.com/ongyishen/streamdeck-zhipu-usage/blob/cb09f6f031b3b4c37b18a4841841bfd8687c3feb/AppScreenShotZhipu.png)
+
 This plugin enables Stream Deck users to monitor their Zhipu AI usage in real-time. It displays usage statistics, remaining quota, and time until reset directly on Stream Deck buttons with color-coded indicators.
 
 ## Features
