@@ -3,7 +3,7 @@
 > Monitor your Zhipu AI 5-hour Token Limit directly from your Stream Deck
 
 ## Overview
-![App](https://github.com/ongyishen/streamdeck-minimax-usage/blob/5287ed8ef9967da97df79564c761a72265dc19be/AppScreenShot.png)
+![App](https://github.com/ongyishen/streamdeck-zhipu-usage/blob/cb09f6f031b3b4c37b18a4841841bfd8687c3feb/AppScreenShotZhipu.png)
 This plugin enables Stream Deck users to monitor their Zhipu AI usage in real-time. It displays usage statistics, remaining quota, and time until reset directly on Stream Deck buttons with color-coded indicators.
 
 ## Features
@@ -21,7 +21,7 @@ This plugin enables Stream Deck users to monitor their Zhipu AI usage in real-ti
 ## Screenshots
 
 ### Stream Deck Display
-![Stream Deck Button Display](https://github.com/ongyishen/streamdeck-minimax-usage/blob/5287ed8ef9967da97df79564c761a72265dc19be/293.png)
+![Stream Deck Button Display](https://github.com/ongyishen/streamdeck-zhipu-usage/blob/cb09f6f031b3b4c37b18a4841841bfd8687c3feb/293.png)
 
 Real-time usage display on Stream Deck button with color-coded indicator and model information.
 
