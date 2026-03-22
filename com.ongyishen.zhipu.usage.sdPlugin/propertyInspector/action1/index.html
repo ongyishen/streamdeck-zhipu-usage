@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Zhipu Usage - Settings</title>
+    <link rel="stylesheet" href="../../static/css/sdpi.css">
+    <style>
+        .sdpi-item-label { width: 100px; }
+    </style>
+</head>
+
+<body>
+    <div class="sdpi-wrapper" style="display: none">
+        <div class="sdpi-heading">Zhipu Usage Settings</div>
+        
+        <div class="sdpi-item"> 
+            <div class="sdpi-item-label">API Key</div> 
+            <input class="sdpi-item-value" id="apiKey" type="password" placeholder="Enter Zhipu API Key" oninput="updateSettings()" />
+        </div>
+        
+        <div class="sdpi-item"> 
+            <div class="sdpi-item-label">Refresh (min)</div> 
+            <input class="sdpi-item-value" id="refreshInterval" type="number" min="1" value="5" placeholder="5" oninput="updateSettings()" />
+        </div>
+        
+        <div class="sdpi-item">
+            <details class="message info">
+                <summary>Help</summary>
+                <p>API Key is required to fetch quota.</p>
+                <p>Refresh interval: 1-60 minutes.</p>
+            </details>
+        </div>
+    </div>
+    <script src="../utils/common.js"></script>
+    <script src="../utils/action.js"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>

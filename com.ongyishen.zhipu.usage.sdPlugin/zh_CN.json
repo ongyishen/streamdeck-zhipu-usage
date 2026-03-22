@@ -1,0 +1,10 @@
+{
+  "Name": "Zhipu 使用量",
+  "Description": "智谱 AI 使用量监控",
+  "com.ongyishen.minimax.usage.action1": {
+    "Name": "Zhipu 使用量",
+    "Tooltip": "显示智谱 AI 使用量"
+  },
+  "Category": "Zhipu",
+  "Localization": {}
+}
